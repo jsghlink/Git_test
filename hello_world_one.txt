@@ -1,0 +1,3 @@
+This is a sample hello world file for learning version control using Git and Github.
+This file will be used to make numerous changes on the journey to master commands and workflow on the DVCS supreme Git and Github.
+Thank you to The Odin Project for helping out with the resources.
